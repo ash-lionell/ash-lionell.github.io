@@ -1,0 +1,1 @@
+import{Q as t}from"./QPage-C9Gf9zig.js";import{d as s,l as a,m as o,n,q as r}from"./index-BT9mI_iq.js";const _=s({__name:"ContactUsPage",setup(c){return(i,e)=>(o(),a(t,{class:"row items-center justify-evenly"},{default:n(()=>e[0]||(e[0]=[r(" This is the page to contact us. ")])),_:1,__:[0]}))}});export{_ as default};

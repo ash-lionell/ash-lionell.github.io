@@ -1,0 +1,1 @@
+import{Q as t}from"./QPage-C9Gf9zig.js";import{d as s,l as a,m as o,n as r,q as i}from"./index-BT9mI_iq.js";const _=s({__name:"ActivityPage",setup(n){return(c,e)=>(o(),a(t,{class:"row items-center justify-evenly"},{default:r(()=>e[0]||(e[0]=[i(" This is your Activities page. ")])),_:1,__:[0]}))}});export{_ as default};
